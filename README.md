@@ -4,8 +4,6 @@
 <a href="https://discord.com/users/138722288982818816">
 <img height="80px" src="https://discord.c99.nl/widget/theme-1/138722288982818816.png" />
 </a>
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kerimmkirac) [![Disocrd]([https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white](https://img.shields.io/badge/Discord-%23000000.svg?logo=Discord&logoColor=white))]([https://discord.com/users/138722288982818816])
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
