@@ -1,5 +1,5 @@
 
-
+<div align="center">
 
 
 <p>Benimle iletişime geçmek için aşağıdaki bağlantıları kullanabilirsiniz:</p>
